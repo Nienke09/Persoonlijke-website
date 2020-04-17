@@ -4,9 +4,11 @@ body {
 }
 h1 {
   color: #1e56a0;
+  font-family: "Helvetica Neue";
 }
 h3 {
   color: #1e56a0;
+  font-family: "Helvetica", Times, Serif;
 }
 
 hr {
@@ -18,4 +20,13 @@ hr {
 img {
   height: 70%;
   width: 70%;
+}
+ ol {
+   font-family: "Helvetica";
+ }
+ul {
+  font-family: "Helvetica";
+}
+table {
+  font-family: "Helvetica";
 }
